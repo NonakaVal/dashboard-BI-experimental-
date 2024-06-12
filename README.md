@@ -11,7 +11,7 @@ Ferramentas Utilizadas: Power BI e Jupyter Lab (python)
 Layout e Navegação: Todo o Dashboard é interativo, tendo o total de duas páginas uma com gráficos de vendas, e outro gráficos e tabelas de desempenho das campanhas realizadas.
 Principais KPIs: Investimento, Faturamento, Total de Vendas, ROI (retorno por investimento), CPL(custo por lead), CPV (custo por venda), etc...
 
-![Imgur](https://i.imgur.com/wgvBpGT.gifv)
+![Imgur](dash-1.gif)
 
 ### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODQxNDY0NzItNjFjYy00NWE1LTllZDktN2JhZGI1ZTRiMWRmIiwidCI6IjlkNzVmMWI5LTk0NzQtNDlhOS04NTE0LTY3NzhkZGY1OThmMCIsImMiOjN9)
 
