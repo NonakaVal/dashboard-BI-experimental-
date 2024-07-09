@@ -8,7 +8,7 @@ Fontes de Dados: Baseando-se no estudo de banco de dados públicos e em serviço
 Ferramentas Utilizadas: Power BI e Jupyter Lab (python)
 
 ### 3. Estrutura do Dashboard
-Layout e Navegação: Todo o Dashboard é interativo, tendo o total de duas páginas uma com gráficos de vendas, e outro gráficos e tabelas de desempenho das campanhas realizadas.
+Layout e Navegação: Todo o Dashboard é interativo, tendo o total de duas páginas, a primeira de vendas e a segunda com o desempenho das campanhas realizadas.
 Principais KPIs: Investimento, Faturamento, Total de Vendas, ROI (retorno por investimento), CPL(custo por lead), CPV (custo por venda), etc...
 
 ### 4.[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODQxNDY0NzItNjFjYy00NWE1LTllZDktN2JhZGI1ZTRiMWRmIiwidCI6IjlkNzVmMWI5LTk0NzQtNDlhOS04NTE0LTY3NzhkZGY1OThmMCIsImMiOjN9)
